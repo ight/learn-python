@@ -1,0 +1,9 @@
+# Hello world in python
+
+print "Hello World!"
+print "Hello Again."
+print "I like typing this."
+print "This is fun."
+print "Yaa I am in."
+print "I'd much rather 'not'."
+print 'I "said" do not touch.'
