@@ -5,7 +5,7 @@ urls = (
 )
 
 app = web.application(urls, globals())
-render = web.template.render('day21/gothonweb/templates/')
+render = web.template.render('day21/gothonweb/templates/', base="layout")
 
 class Index(object):
 
